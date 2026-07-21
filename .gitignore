@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+*.env
+
+# Secrets — NEVER commit
+.env.local
+*.env.local
+
+# Node / Frontend
+node_modules/
+frontend/dist/
+frontend/.env.local
+
+# Test artifacts
+test_sets_try/
+*.pdf
+last_analysis.json
+test_recompute.py
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Graphify output (generated, not source)
+graphify-out/
+notes/
+
+# Stale root-level files to manually delete
+# src/app.jsx  ← delete this, it's the stale copy
