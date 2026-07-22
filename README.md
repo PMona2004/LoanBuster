@@ -1,8 +1,7 @@
 # Loan Buster 🔍
 
 **AI Predatory Lending Decoder** · ET AI Challenge 2.0 2026  
-Track: **AI for Digital Public Safety: Defeating Counterfeiting, Fraud & Digital Arrest Scams (Open Innovation)** · SDGs: **1 · 10 · 16**
-Theme: **Digital Trust**
+Track: **AI for Digital Public Safety: Defeating Counterfeiting, Fraud & Digital Arrest Scams (Open Innovation)** · SDGs: **1 · 10 · 16** · Theme: **Digital Trust**
 
 NOTE : Has been moved from GCP deployment to Vercel + Railway 
 > *"You don't need a CA. You don't need a lawyer. Photograph your loan agreement. Loan Buster tells you in Kannada if you're being cheated — and gives you the paperwork to prove it."*
