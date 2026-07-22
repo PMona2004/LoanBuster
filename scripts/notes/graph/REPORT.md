@@ -1,4 +1,4 @@
-# Graph Report - loan lens  (2026-04-26)
+# Graph Report - Loan Buster
 
 ## Corpus Check
 - 26 files · ~24,929 words
